@@ -12,3 +12,6 @@ logging:
 microservices:
   employee:
     url: http://${EMPLOYEE_SERVICE}:8080
+    
+    
+    
